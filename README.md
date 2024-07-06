@@ -1,3 +1,4 @@
 # PROJET
 ## Developpeur
-- sandjong wilfried
+>- sandjong wilfried
+>- Anicet
